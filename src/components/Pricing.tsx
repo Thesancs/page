@@ -11,9 +11,6 @@ const Pricing: React.FC = () => {
     "Acesso a mais de 100 fornecedores verificados",
     "Contatos de Instagram e WhatsApp atualizados",
     "Endereços completos para visitas presenciais",
-    "Dicas de negociação para melhores preços",
-    "Guia de como iniciar seu negócio de revenda",
-    "Atualizações gratuitas por 1 ano"
   ];
 
   return (
@@ -28,10 +25,10 @@ const Pricing: React.FC = () => {
       >
         <div className="text-center max-w-3xl mx-auto mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Investimento mínimo, retorno máximo
+            FAÇA DE 5.000 Á 10.000 MIL REAIS!
           </h2>
           <p className="text-gray-300 text-lg mb-8">
-            Um pequeno investimento que pode transformar o seu futuro financeiro e abrir as portas para o seu próprio negócio.
+            Um pequeno investimento que pode transformar o seu futuro financeiro e aumentar lucros de até 80%
           </p>
         </div>
 
@@ -50,7 +47,7 @@ const Pricing: React.FC = () => {
               
               <div className="p-8 text-center">
                 <h3 className="text-2xl font-bold mb-2">GUIA: Ouro do Brás</h3>
-                <p className="text-gray-400 mb-4">eBook + Contatos + Atualizações</p>
+                <p className="text-gray-400 mb-4">eBook + Atualizações</p>
                 
                 <div className="mb-6">
                   <div className="inline-block bg-amber-500/10 text-amber-400 px-3 py-1 rounded-full text-sm font-medium mb-2">
@@ -59,7 +56,7 @@ const Pricing: React.FC = () => {
                   <div className="flex flex-col items-center justify-center">
                     <span className="text-gray-400 line-through text-lg">R$197</span>
                     <span className="text-4xl font-bold text-amber-400">R$29,99</span>
-                    <p className="text-gray-400 text-sm">Pagamento único</p>
+                    <p className="text-gray-400 text-sm">Pagamento UNICO</p>
                   </div>
                 </div>
                 
@@ -75,17 +72,17 @@ const Pricing: React.FC = () => {
                 </div>
                 
                 <Button 
-                  href="https://pay.hotmart.com/"  // Replace with actual payment link
+                  href= 'https://checkout.viperpay.com.br/NlbWtRLE'
                   fullWidth
                   size="lg"
                   className="group animate-bounce hover:animate-none"
                 >
-                  <span>QUERO COMEÇAR AGORA</span>
+                  <span>QUERO APROVEITAR AGORA</span>
                   <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={20} />
                 </Button>
                 
                 <p className="text-center text-gray-400 text-sm mt-4">
-                  Pagamento seguro via Cartão, Pix ou Boleto
+                  Pagamento seguro Pix 
                 </p>
               </div>
             </div>

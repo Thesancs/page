@@ -30,9 +30,7 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="font-bold text-lg mb-4">Formas de Pagamento</h4>
             <div className="flex flex-wrap gap-2">
-              <div className="bg-slate-800 p-2 rounded text-gray-300 text-sm">Cartão de Crédito</div>
               <div className="bg-slate-800 p-2 rounded text-gray-300 text-sm">Pix</div>
-              <div className="bg-slate-800 p-2 rounded text-gray-300 text-sm">Boleto</div>
             </div>
           </div>
           
@@ -52,11 +50,7 @@ const Footer: React.FC = () => {
             <ShieldCheck size={16} className="mr-1" />
             <span>Pagamento Seguro</span>
           </div>
-          <div className="flex items-center justify-center md:justify-start text-gray-500 text-sm">
-            <CreditCard size={16} className="mr-1" />
-            <span>Até 12x no Cartão</span>
-          </div>
-          <div className="flex items-center justify-center md:justify-start text-gray-500 text-sm">
+           <div className="flex items-center justify-center md:justify-start text-gray-500 text-sm">
             <HeartHandshake size={16} className="mr-1" />
             <span>Garantia de 7 Dias</span>
           </div>

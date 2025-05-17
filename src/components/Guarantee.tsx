@@ -45,7 +45,7 @@ const Guarantee: React.FC = () => {
                 <h4 className="font-bold mb-1">Pagamento 100% Seguro</h4>
                 <p className="text-gray-400 text-sm">
                   Transações protegidas e dados criptografados.
-                  Aceitamos Cartão de Crédito, Pix e Boleto.
+                  Aceitamos Pix
                 </p>
               </div>
             </div>
