@@ -18,20 +18,22 @@ const Hero: React.FC = () => {
       <div className="container mx-auto px-4 relative">
         <div className="max-w-4xl mx-auto text-center">
           {/* VÍDEO NO TOPO - estilo Reels */}
-          <div className="flex justify-center mb-6">
-            <div className="w-[270px] aspect-[9/16] relative p-1 rounded-xl bg-gradient-to-r from-amber-400 to-indigo-500">
-              <div className="bg-slate-900 rounded-lg p-2 h-full relative">
-                <iframe
-                  className="w-full h-full rounded-lg"
-                  src="https://www.youtube.com/embed/SvVKMkR0Yq0?autoplay=1&mute=1&rel=0&controls=0&modestbranding=1"
-                  title="Guia Ouro do Brás"
-                  frameBorder="0"
-                  allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
-                  allowFullScreen
-                ></iframe>
-              </div>
-            </div>
-          </div>
+         <div className="flex justify-center mb-6">
+  <div className="w-[270px] aspect-[9/16] relative p-1 rounded-xl bg-gradient-to-r from-amber-400 to-indigo-500">
+    <div className="bg-slate-900 rounded-lg p-2 h-full relative">
+      <iframe
+        className="w-full h-full rounded-lg"
+        src="https://www.youtube.com/embed/qk5w-nLDaUs?rel=0&controls=1&modestbranding=1"
+        title="Guia Ouro do Brás"
+        frameBorder="0"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+        allowFullScreen
+      ></iframe>
+    </div>
+  </div>
+</div>
+
+
 
           {/* TÍTULO E TEXTO */}
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
