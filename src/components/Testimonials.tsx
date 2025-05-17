@@ -25,14 +25,14 @@ const Testimonials: React.FC = () => {
       name: "Fernanda Costa",
       location: "Salvador, BA",
       image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      text: "Sempre tive medo de iniciar meu negócio por não conhecer fornecedores confiáveis. O guia mudou isso. Agora tenho uma loja online de sucesso e estou expandindo para loja física.",
+      text: "Sempre tive medo de iniciar meu negócio por não conhecer fornecedores confiáveis. O guia mudou isso. Agora tenho uma loja online com o faturamento de mais de 20 mil reais",
       stars: 5
     },
     {
       name: "Rafael Santos",
       location: "Curitiba, PR",
       image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      text: "As dicas de negociação incluídas no guia foram um diferencial. Consegui preços muito melhores e isso aumentou minha margem de lucro significativamente. Investimento que valeu cada centavo.",
+      text: "Consegui preços muito melhores e isso aumentou minha margem de lucro significativamente. Investimento que valeu cada centavo.",
       stars: 4
     }
   ];

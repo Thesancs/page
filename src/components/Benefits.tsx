@@ -38,7 +38,7 @@ const Benefits: React.FC = () => {
     {
       icon: <Instagram size={24} />,
       title: "Instagram Verificado",
-      description: "Fornecedores com Instagram profissional e ativo para você verificar produtos atualizados."
+      description: "Instagram de fornecedores para você verificar produtos atualizados."
     },
     {
       icon: <MessageCircle size={24} />,
@@ -53,17 +53,17 @@ const Benefits: React.FC = () => {
     {
       icon: <DollarSign size={24} />,
       title: "Preços Acessíveis",
-      description: "Acesso a produtos de qualidade com preços de atacado que garantem sua margem de lucro."
+      description: "Acesso a produtos de qualidade com preços de atacado que garantem sua margem de mais de 5x"
     },
     {
       icon: <ListChecks size={24} />,
       title: "100+ Fornecedores",
-      description: "Mais de 100 fornecedores confiáveis selecionados após extensa pesquisa de mercado."
+      description: "Mais de 100 dos melhores fornecedores do mercado"
     },
     {
       icon: <ShieldCheck size={24} />,
       title: "Fornecedores Verificados",
-      description: "Todos os fornecedores são verificados e confiáveis, reduzindo riscos na sua operação."
+      description: "100% verificados e confiaveis, reduzindo os riscos na sua operação."
     }
   ];
 
@@ -80,10 +80,10 @@ const Benefits: React.FC = () => {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
             <span className="bg-gradient-to-r from-amber-400 to-amber-300 text-transparent bg-clip-text">
-              PORQUE O GUIA É ESSENCIAL
+              BENEFICIOS DO GUIA
             </span>
           </h2>
-          <p className="text-yellow-400 [text-shadow:_0_1px_0_rgb(255_255_255_/_40%)] text-lg">
+          <p className="text-white-400 [text-shadow:_0_1px_0_rgb(255_255_255_/_40%)] text-x1">
             Economize tempo, dinheiro e estresse com nosso guia completo de fornecedores confiáveis 
             que já foram testados e aprovados.
           </p>

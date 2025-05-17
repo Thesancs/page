@@ -37,7 +37,7 @@ const Guarantee: React.FC = () => {
           <div className="pt-6 border-t border-slate-700/50">
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <img 
-                src="https://images.pexels.com/photos/6863250/pexels-photo-6863250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://i.imgur.com/V6yZtqF.png" 
                 alt="Pagamento seguro" 
                 className="w-32 h-auto rounded-lg"
               />

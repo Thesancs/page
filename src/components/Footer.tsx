@@ -39,10 +39,10 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="font-bold text-lg mb-4">Contato</h4>
             <p className="text-gray-400 mb-2">
-              Email: suporte@ourobras.com.br
+              Email: agenciasancs@gmail.com
             </p>
             <p className="text-gray-400">
-              WhatsApp: (11) 9xxxx-xxxx
+              WhatsApp: (19)97421-0646
             </p>
           </div>
         </div>
@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
             <span>Garantia de 7 Dias</span>
           </div>
           <div className="text-center md:text-right text-gray-500 text-sm">
-            &copy; {currentYear} Ouro do Brás. Todos os direitos reservados.
+            &copy; {currentYear} Guia Ouro do Brás. Todos os direitos reservados.
           </div>
         </div>
       </div>
